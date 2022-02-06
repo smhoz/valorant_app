@@ -1,16 +1,14 @@
-# valorant_app
+# Valorant App
 
-A new Flutter project.
+Flutter Valorant App
 
-## Getting Started
+Hi, this app is a valorant mobile app made with valorant-api.
+Pageview transitions have been achieved with the translate scale widget,
+used in a dominant color-sensing color_palette in the photo for background colors.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/78686891/152698167-eb4c72fe-fd18-4c07-b7ac-f8bc3e944d15.mp4
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Valorant App Mock Up
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Valorant app mock_up](https://user-images.githubusercontent.com/78686891/152697912-fecc792a-46fa-46c0-b49e-f881376eb71d.jpg)
