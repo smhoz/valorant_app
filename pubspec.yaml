@@ -1,5 +1,5 @@
 name: valorant_app
-description: A new Flutter project.
+description: Flutter Valorant App.
 
 
 publish_to: 'none'
@@ -31,10 +31,13 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-
+  
   flutter_lints: ^1.0.0
+  
   freezed: ^1.1.1
+  
   build_runner: ^2.1.7
+  
   json_serializable: ^6.1.4
 
 
